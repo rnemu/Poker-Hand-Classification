@@ -15,7 +15,10 @@ The Poker Hand Classification project aims to classify poker hands into 10 prede
 - `Report/`: Contains the project report.
 - `README.md`: Project overview and documentation (this file).
 
-## Data Preprocessing
+## Usage
+
+
+### Data Preprocessing
 - **Feature Transformation**: Applied transformations to convert raw card rank and suit into a format suitable for machine learning algorithms.
 - **Feature Construction**: Created new features to enhance model learning.
 
